@@ -31,3 +31,5 @@ This project demonstrates the fine-tuning of a GPT-2 language model for applicat
 3. Run the notebook to fine-tune the GPT-2 model and generate tourism-related text.
 4. Explore the interactive chatbot interface to test the fine-tuned model's capabilities.
 
+### Download Model
+You can download the trained model from this link[https://drive.google.com/file/d/1-5NlStgp1c3eyYszxjOUmHpLrinwsqNR/view?usp=sharing] and placed it in the model save folder. 
