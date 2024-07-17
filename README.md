@@ -32,4 +32,4 @@ This project demonstrates the fine-tuning of a GPT-2 language model for applicat
 4. Explore the interactive chatbot interface to test the fine-tuned model's capabilities.
 
 ### Download Model
-You can download the trained model from this link[https://drive.google.com/file/d/1-5NlStgp1c3eyYszxjOUmHpLrinwsqNR/view?usp=sharing] and placed it in the model save folder. 
+You can download the trained model from this link[https://drive.google.com/file/d/11p4UXFRFVVmayAwo5snK_kH-0MP0D6YE/view?usp=drive_link] and placed it in the model save folder. 
